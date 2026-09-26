@@ -132,19 +132,13 @@ Aplicación pensada para optimizar la recepción y administración de alojamient
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaquinbowen&theme=github_dark" height="160"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaquinbowen&show_icons=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=e2e8f0&border_color=1f2937&border_radius=8&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaquinbowen&theme=github_dark" height="160"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaquinbowen&layout=compact&bg_color=0d1117&title_color=10B981&text_color=e2e8f0&border_color=1f2937&border_radius=8&langs_count=7&hide=html,c%2B%2B,c,java"/>
 
 <br/>
 
 <img width="68%" src="https://streak-stats.demolab.com?user=joaquinbowen&theme=dark&background=0d1117&ring=10B981&fire=059669&currStreakLabel=10B981&border=1f2937&sideLabels=e2e8f0&sideNums=10B981&stroke=0d1117&dates=6b7280"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaquinbowen&theme=github_dark" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaquinbowen&theme=github_dark&utcOffset=1" height="160"/>
 
 </div>
 
