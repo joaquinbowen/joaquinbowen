@@ -1,113 +1,112 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,064e3b,10B981&height=220&section=header&text=Joaquín%20Bowen&fontSize=56&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Backend-Focused%20Fullstack%20Developer%20%7C%20España%20%F0%9F%87%AA%F0%9F%87%B8&descAlignY=62&descSize=18&descColor=6ee7b7" width="100%"/>
-
 <div align="center">
 
+# 👋 ¡Hola! Soy Joaquín Bowen
+
+### **Backend-Focused Fullstack Developer** 🇪🇸
+
+<br/>
+
 <a href="https://github.com/joaquinbowen">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=640&lines=Arquitecturas+REST+%2B+Bases+de+Datos+relacionales;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Prisma;SaaS+%7C+E-Commerce+%7C+Plataformas+editoriales;Construyendo+software+que+escala." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Arquitecturas+REST+%2B+Bases+de+Datos+Relacionales;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Prisma;Desarrollo+Fullstack+%7C+Web+%2B+Mobile;Construyendo+software+eficiente+y+escalable." alt="Typing SVG" />
 </a>
+
+<br/>
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+### 👤 Sobre mí
+
+Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura de Software**, con experiencia construyendo aplicaciones **Fullstack modernas**. Apasionado por el diseño de bases de datos relacionales, consumo y creación de **APIs RESTful**, y la optimización de código para que sea limpio, modular y mantenible.
+
+- 🔭 **Enfoque actual:** Profundizando en arquitecturas backend avanzadas con **NestJS** y **PostgreSQL**.
+- 🛠️ **Stack principal:** Node.js, NestJS, TypeScript, PostgreSQL, Prisma y Next.js.
+- 🎯 **Objetivo:** Desarrollar soluciones digitales de alto impacto con estándares de código profesional.
+- 📍 **Ubicación:** España 🇪🇸
+
+---
+
+## ⚡ Stack Tecnológico
+
+<br/>
 
 <div align="center">
 
-### 🔩 Core — Backend, DB & Lenguajes base
+### ⚙️ Backend & Bases de Datos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-10B981?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-10B981?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 💻 Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### 🎨 Frontend & Otras Tecnologías
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ Herramientas & Ecosistema
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 
 </div>
+
+<br/>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="padding: 12px;">
+<br/>
 
-### 🚌 RouteSync
-`En Desarrollo`
+### 🚌 1. RouteSync — *Sistema de Logística & Rastreo*
+> **Rastreo y gestión en tiempo real para transporte escolar y empresarial.**
 
-**SaaS B2B de Logística y Rastreo Escolar/Empresarial**
+Plataforma integral diseñada para coordinar vehículos, usuarios, rutas y trayectos. Conecta paneles administrativos web con aplicaciones móviles dedicadas a choferes y tutores.
 
-Sistema integral para administrar **estudiantes, vehículos, rutas y viajes** en tiempo real. Coordina paneles web de administración con apps móviles para choferes y tutores.
+- ⚙️ **Características clave:** Panel de administración, mapa en tiempo real, asignación de rutas y gestión de asistencia.
+- 🧰 **Tech Stack:** `NestJS` · `PostgreSQL` · `Prisma` · `React Native` · `Docker`
+- 📌 **Estado:** `🛠️ En Desarrollo`
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
 
-</td>
-<td width="50%" valign="top" style="padding: 12px;">
+### 🛒 2. E-Commerce Platform — *Plataforma de Comercio Electrónico*
+> **Solución e-commerce para productos personalizables y digitales.**
 
-### 🛒 E-Commerce Platform
-`Completado`
+Plataforma web enfocada en venta de catálogo digital y físicos (posters) con integración de pasarela de pagos, gestión de usuarios, e inventario con analíticas de ventas.
 
-**Plataforma de Comercio Electrónico — Digital & Posters**
+- ⚙️ **Características clave:** Carrito de compras, pagos en línea, optimización SEO y panel de gestión.
+- 🧰 **Tech Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
+- 📌 **Estado:** `✅ Completado`
 
-E-commerce para productos personalizables con **pasarela de pago**, almacenamiento cloud de imágenes y panel administrativo con analíticas e inventario.
+---
 
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### 📰 3. Editorial & Social Platform — *CMS & Red Editorial*
+> **Gestión de contenidos periodísticos e investigaciones con interacción social.**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding: 12px;">
+Plataforma de comunicación y noticias con autenticación de usuarios para denuncias ciudadanas y gestión de contenido dinámico mediante un headless CMS.
 
-### 📰 Editorial & Social Platform
-`Completado`
+- ⚙️ **Características clave:** Publicación dinámica, moderación de posts, feedback ciudadano y optimización de assets.
+- 🧰 **Tech Stack:** `Next.js` · `Sanity CMS` · `PostgreSQL` · `TypeScript`
+- 📌 **Estado:** `✅ Completado`
 
-**Gestión de Contenidos y Red Social Editorial**
+---
 
-Plataforma de noticias e investigaciones sociales con **autenticación de usuarios** para denuncias ciudadanas y gestión de contenido dinámico con Sanity CMS.
+### 🏨 4. Hotel Cash Register & PMS — *Gestión Hotelera & Caja*
+> **Sistema integral para el control de turnos, arqueos de caja y operaciones hoteleras.**
 
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=black)
-![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+Aplicación pensada para optimizar la recepción y administración de alojamientos, permitiendo cuadres de caja por turno, control de gastos y auditoría de ventas.
 
-</td>
-<td width="50%" valign="top" style="padding: 12px;">
+- ⚙️ **Características clave:** Control multi-turno, auditorías en tiempo real y reporte financiero diario.
+- 🧰 **Tech Stack:** `NestJS` · `Angular` · `PostgreSQL` · `Docker`
+- 📌 **Estado:** `💡 En Planificación`
 
-### 🏨 Hotel Cash Register & PMS
-`En Planificación`
-
-**Sistema Integral de Caja y Gestión Hotelera**
-
-Sistema completo para hospedajes con **turnos, auditoría de ventas, cuadres de caja** y control de empleados. Pensado para optimizar la operación diaria de recepción y administración.
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
@@ -115,15 +114,16 @@ Sistema completo para hospedajes con **turnos, auditoría de ventas, cuadres de 
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=joaquinbowen&show_icons=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=e2e8f0&border_color=1f2937&border_radius=8&hide_border=false&include_all_commits=true&count_private=true&hide=contribs"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinbowen&layout=compact&bg_color=0d1117&title_color=10B981&text_color=e2e8f0&border_color=1f2937&border_radius=8&hide_border=false&langs_count=7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaquinbowen&show_icons=true&theme=tokyonight&hide_border=true&title_color=10B981&icon_color=10B981&count_private=true&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinbowen&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=joaquinbowen&theme=dark&background=0d1117&ring=10B981&fire=059669&currStreakLabel=10B981&border=1f2937&sideLabels=e2e8f0&sideNums=10B981&stroke=0d1117&dates=6b7280"/>
+<img width="97%" src="https://streak-stats.demolab.com?user=joaquinbowen&theme=tokyonight&background=0b0f19&ring=10B981&fire=10B981&currStreakLabel=10B981&border=0b0f19&stroke=0b0f19&hide_border=true" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -131,34 +131,34 @@ Sistema completo para hospedajes con **turnos, auditoría de ventas, cuadres de 
 
 <div align="center">
 
-![Español](https://img.shields.io/badge/Español-Nativo-10B981?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=064e3b)
-&nbsp;&nbsp;
-![English](https://img.shields.io/badge/English-B2_Upper_Intermediate-3178C6?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=1e3a5f)
+| Idioma | Nivel |
+| :--- | :--- |
+| **Español** | 🇪🇸 Nativo |
+| **Inglés** | 🇬🇧 B2 (Intermedio Alto) |
 
 </div>
+
+<br/>
 
 ---
 
-## 📬 Contacto
+## 📬 Contacto & Redes
 
 <div align="center">
 
-<a href="mailto:tu-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-tu--email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/tu-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-joaquin--bowen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
-</a>
-&nbsp;
-<a href="https://tu-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-tu--portfolio.com-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=064e3b"/>
-</a>
+Sientete libre de contactarme para colaboraciones, oportunidades laborales o dudas técnicas.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquin-bowen)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=joaquinbowen&style=flat-square&color=10B981&label=Profile+Views&abbreviated=true"/>
+![Profile Views](https://komarev.com/ghpvc/?username=joaquinbowen&style=flat-square&color=10B981&label=Vistas+del+Perfil)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,064e3b,10B981&height=100&section=footer" width="100%"/>
