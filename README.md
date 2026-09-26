@@ -1,13 +1,19 @@
+<div align="right">
+  <a href="./README_ES.md">
+    <img src="https://img.shields.io/badge/Versi%C3%B3n_en_Espa%C3%B1ol-%F0%9F%87%AA%F0%9F%87%B8-10B981?style=for-the-badge" alt="Versión en Español" />
+  </a>
+</div>
+
 <div align="center">
 
-# 👋 ¡Hola! Soy Joaquín Bowen
+# 👋 Hi there! I'm Joaquín Bowen
 
 ### **Backend-Focused Fullstack Developer** 🇪🇸
 
 <br/>
 
 <a href="https://github.com/joaquinbowen">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Arquitecturas+REST+%2B+Bases+de+Datos+Relacionales;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Prisma;Desarrollo+Fullstack+%7C+Web+%2B+Mobile;Construyendo+software+eficiente+y+escalable." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=REST+Architectures+%2B+Relational+DBs;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Prisma;Fullstack+Web+%2B+Mobile+Development;Building+clean%2C+scalable+%26+maintainable+software." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,24 +22,24 @@
 
 ---
 
-### 👤 Sobre mí
+### 👤 About Me
 
-Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura de Software**, con experiencia construyendo aplicaciones **Fullstack modernas**. Apasionado por el diseño de bases de datos relacionales, consumo y creación de **APIs RESTful**, y la optimización de código para que sea limpio, modular y mantenible.
+Software developer focused primarily on the **Backend Ecosystem and Software Architecture**, with hands-on experience building modern **Fullstack applications**. Passionate about relational database design, designing **RESTful APIs**, and optimizing code for cleanliness, modularity, and maintainability.
 
-- 🔭 **Enfoque actual:** Profundizando en arquitecturas backend avanzadas con **NestJS** y **PostgreSQL**.
-- 🛠️ **Stack principal:** Node.js, NestJS, TypeScript, PostgreSQL, Prisma y Next.js.
-- 🎯 **Objetivo:** Desarrollar soluciones digitales de alto impacto con estándares de código profesional.
-- 📍 **Ubicación:** España 🇪🇸
+- 🔭 **Current Focus:** Deepening advanced backend architectures with **NestJS** and **PostgreSQL**.
+- 🛠️ **Core Stack:** Node.js, NestJS, TypeScript, PostgreSQL, Prisma, and Next.js.
+- 🎯 **Goal:** Developing high-impact digital solutions with professional engineering standards.
+- 📍 **Location:** Spain 🇪🇸
 
 ---
 
-## ⚡ Stack Tecnológico
+## ⚡ Tech Stack
 
 <br/>
 
 <div align="center">
 
-### ⚙️ Backend & Bases de Datos
+### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -49,7 +55,7 @@ Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### 🛠️ Herramientas & Ecosistema
+### 🛠️ Tools & Ecosystem
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
@@ -64,59 +70,59 @@ Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura 
 
 <br/>
 
-- 🏛️ **Arquitectura de Software:** Hexagonal Architecture (Ports & Adapters) · Modular Monoliths · Pattern MVC · RESTful API Design
-- 🧼 **Principios de Código:** Clean Code · SOLID Principles · DRY & KISS
-- 🔄 **Metodologías & Workflows:** Agile / Scrum · CI/CD Workflows · Git Flow
+- 🏛️ **Software Architecture:** Hexagonal Architecture (Ports & Adapters) · Modular Monoliths · MVC Pattern · RESTful API Design
+- 🧼 **Code Principles:** Clean Code · SOLID Principles · DRY & KISS
+- 🔄 **Methodologies & Workflows:** Agile / Scrum · CI/CD Workflows · Git Flow
 
 <br/>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <br/>
 
-### 🛒 1. E-Commerce Platform — *Plataforma de Comercio Electrónico*
-> **Solución e-commerce para productos personalizables y digitales.**
+### 🛒 1. E-Commerce Platform — *Digital & Poster Commerce Solution*
+> **E-Commerce platform for customizable physical and digital products.**
 
-Plataforma web enfocada en venta de catálogo digital y físicos (posters) con integración de pasarela de pagos, gestión de usuarios, e inventario con analíticas de ventas.
+Fullstack e-commerce web application featuring customizable digital catalog, payment gateway integration, user authentication, and admin inventory analytics.
 
-- ⚙️ **Características clave:** Carrito de compras, pagos en línea, optimización SEO y panel de gestión.
+- ⚙️ **Key Features:** Shopping cart, online checkout, SEO optimization, and admin control panel.
 - 🧰 **Tech Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
-- 📌 **Estado:** `✅ Completado`
+- 📌 **Status:** `✅ Completed`
 
 ---
 
-### 📰 2. Editorial & Social Platform — *CMS & Red Editorial*
-> **Gestión de contenidos periodísticos e investigaciones con interacción social.**
+### 📰 2. Editorial & Social Platform — *CMS & News Social Network*
+> **Content management and social platform for journalistic research and reporting.**
 
-Plataforma de comunicación y noticias con autenticación de usuarios para denuncias ciudadanas y gestión de contenido dinámico mediante un headless CMS.
+News and social communication platform featuring user authentication for public reporting and dynamic content management via headless CMS.
 
-- ⚙️ **Características clave:** Publicación dinámica, moderación de posts, feedback ciudadano y optimización de assets.
+- ⚙️ **Key Features:** Dynamic publishing, post moderation, public feedback system, and asset optimization.
 - 🧰 **Tech Stack:** `Next.js` · `Sanity CMS` · `PostgreSQL` · `TypeScript`
-- 📌 **Estado:** `✅ Completado`
+- 📌 **Status:** `✅ Completed`
 
 ---
 
-### 🚌 3. RouteSync — *Sistema de Logística & Rastreo*
-> **Rastreo y gestión en tiempo real para transporte escolar y empresarial.**
+### 🚌 3. RouteSync — *Logistics & Tracking Platform*
+> **Real-time tracking and management for school and corporate transport.**
 
-Plataforma integral diseñada para coordinar vehículos, usuarios, rutas y trayectos. Conecta paneles administrativos web con aplicaciones móviles dedicadas a choferes y tutores.
+Comprehensive system designed to coordinate vehicles, users, routes, and trips. Connects admin web dashboards with dedicated driver and guardian mobile apps.
 
-- ⚙️ **Características clave:** Panel de administración, mapa en tiempo real, asignación de rutas y gestión de asistencia.
+- ⚙️ **Key Features:** Admin dashboard, real-time map tracking, route assignment, and attendance management.
 - 🧰 **Tech Stack:** `NestJS` · `PostgreSQL` · `Prisma` · `React Native` · `Docker`
-- 📌 **Estado:** `🛠️ En Desarrollo`
+- 📌 **Status:** `🛠️ In Development`
 
 ---
 
-### 🏨 4. Hotel Cash Register & PMS — *Gestión Hotelera & Caja*
-> **Sistema integral para el control de turnos, arqueos de caja y operaciones hoteleras.**
+### 🏨 4. Hotel Cash Register & PMS — *Hotel Management & Cash Control*
+> **Comprehensive system for shift tracking, cash register audits, and hotel operations.**
 
-Aplicación pensada para optimizar la recepción y administración de alojamientos, permitiendo cuadres de caja por turno, control de gastos y auditoría de ventas.
+Application built to streamline lodging reception and management, supporting shift-based cash reconciliations, expense tracking, and sales auditing.
 
-- ⚙️ **Características clave:** Control multi-turno, auditorías en tiempo real y reporte financiero diario.
+- ⚙️ **Key Features:** Multi-shift management, real-time auditing, and daily financial reporting.
 - 🧰 **Tech Stack:** `NestJS` · `Angular` · `PostgreSQL` · `Docker`
-- 📌 **Estado:** `💡 En Planificación`
+- 📌 **Status:** `💡 In Planning`
 
 <br/>
 
@@ -126,12 +132,11 @@ Aplicación pensada para optimizar la recepción y administración de alojamient
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaquinbowen&show_icons=true&theme=tokyonight&hide_border=true&title_color=10B981&icon_color=10B981&count_private=true&include_all_commits=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinbowen&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&langs_count=8" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinbowen&show_icons=true&theme=dark&hide_border=false&title_color=10B981&icon_color=10B981&count_private=true&include_all_commits=true)
 
-<br/><br/>
+<br/>
 
-<img width="97%" src="https://streak-stats.demolab.com?user=joaquinbowen&theme=tokyonight&background=0b0f19&ring=10B981&fire=10B981&currStreakLabel=10B981&border=0b0f19&stroke=0b0f19&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinbowen&layout=compact&theme=dark&hide_border=false&title_color=10B981&langs_count=8)
 
 </div>
 
@@ -139,14 +144,13 @@ Aplicación pensada para optimizar la recepción y administración de alojamient
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Languages
 
 <div align="center">
 
-| Idioma | Nivel | Dominio |
-| :--- | :---: | :--- |
-| 🇪🇸 **Español** | `Nativo` | ![Español Nativo](https://img.shields.io/badge/-Lengua_Materna-10B981?style=flat-square) |
-| 🇬🇧 **Inglés** | `B2` | ![Inglés B2](https://img.shields.io/badge/-Intermedio_Alto-3178C6?style=flat-square) |
+![Spanish](https://img.shields.io/badge/Spanish-Native_%F0%9F%87%AA%F0%9F%87%B8-10B981?style=for-the-badge&labelColor=064e3b)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![English](https://img.shields.io/badge/English-B2_Upper_Intermediate_%F0%9F%87%AC%F0%9F%87%B8-0284C7?style=for-the-badge&labelColor=0c4a6e)
 
 </div>
 
@@ -154,27 +158,33 @@ Aplicación pensada para optimizar la recepción y administración de alojamient
 
 ---
 
-## 📬 Contacto & Redes
+## 📬 Contact & Socials
 
 <div align="center">
 
-### 🤝 ¿Hablamos?
-*Abierto a nuevas oportunidades laborales, proyectos colaborativos o consultas técnicas.*
+### 🤝 Let's Connect!
+*Open for new job opportunities, collaborative projects, or technical inquiries.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaquin--bowen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquin-bowen)
+<a href="https://linkedin.com/in/joaquin-bowen" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contacto_Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+<a href="mailto:tu-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Web-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+<a href="https://tu-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-joaquinbowen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaquinbowen)
+<a href="https://github.com/joaquinbowen" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=joaquinbowen&style=flat-square&color=10B981&label=Vistas+del+Perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=joaquinbowen&color=10B981&style=flat-square&label=Profile+Views)
 
 </div>
-
-
