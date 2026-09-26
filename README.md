@@ -60,22 +60,23 @@ Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura 
 
 ---
 
+## 📐 Architectural Principles & Methodology
+
+<br/>
+
+- 🏛️ **Arquitectura de Software:** Hexagonal Architecture (Ports & Adapters) · Modular Monoliths · Pattern MVC · RESTful API Design
+- 🧼 **Principios de Código:** Clean Code · SOLID Principles · DRY & KISS
+- 🔄 **Metodologías & Workflows:** Agile / Scrum · CI/CD Workflows · Git Flow
+
+<br/>
+
+---
+
 ## 🚀 Proyectos Destacados
 
 <br/>
 
-### 🚌 1. RouteSync — *Sistema de Logística & Rastreo*
-> **Rastreo y gestión en tiempo real para transporte escolar y empresarial.**
-
-Plataforma integral diseñada para coordinar vehículos, usuarios, rutas y trayectos. Conecta paneles administrativos web con aplicaciones móviles dedicadas a choferes y tutores.
-
-- ⚙️ **Características clave:** Panel de administración, mapa en tiempo real, asignación de rutas y gestión de asistencia.
-- 🧰 **Tech Stack:** `NestJS` · `PostgreSQL` · `Prisma` · `React Native` · `Docker`
-- 📌 **Estado:** `🛠️ En Desarrollo`
-
----
-
-### 🛒 2. E-Commerce Platform — *Plataforma de Comercio Electrónico*
+### 🛒 1. E-Commerce Platform — *Plataforma de Comercio Electrónico*
 > **Solución e-commerce para productos personalizables y digitales.**
 
 Plataforma web enfocada en venta de catálogo digital y físicos (posters) con integración de pasarela de pagos, gestión de usuarios, e inventario con analíticas de ventas.
@@ -86,7 +87,7 @@ Plataforma web enfocada en venta de catálogo digital y físicos (posters) con i
 
 ---
 
-### 📰 3. Editorial & Social Platform — *CMS & Red Editorial*
+### 📰 2. Editorial & Social Platform — *CMS & Red Editorial*
 > **Gestión de contenidos periodísticos e investigaciones con interacción social.**
 
 Plataforma de comunicación y noticias con autenticación de usuarios para denuncias ciudadanas y gestión de contenido dinámico mediante un headless CMS.
@@ -94,6 +95,17 @@ Plataforma de comunicación y noticias con autenticación de usuarios para denun
 - ⚙️ **Características clave:** Publicación dinámica, moderación de posts, feedback ciudadano y optimización de assets.
 - 🧰 **Tech Stack:** `Next.js` · `Sanity CMS` · `PostgreSQL` · `TypeScript`
 - 📌 **Estado:** `✅ Completado`
+
+---
+
+### 🚌 3. RouteSync — *Sistema de Logística & Rastreo*
+> **Rastreo y gestión en tiempo real para transporte escolar y empresarial.**
+
+Plataforma integral diseñada para coordinar vehículos, usuarios, rutas y trayectos. Conecta paneles administrativos web con aplicaciones móviles dedicadas a choferes y tutores.
+
+- ⚙️ **Características clave:** Panel de administración, mapa en tiempo real, asignación de rutas y gestión de asistencia.
+- 🧰 **Tech Stack:** `NestJS` · `PostgreSQL` · `Prisma` · `React Native` · `Docker`
+- 📌 **Estado:** `🛠️ En Desarrollo`
 
 ---
 
@@ -131,10 +143,10 @@ Aplicación pensada para optimizar la recepción y administración de alojamient
 
 <div align="center">
 
-| Idioma | Nivel |
-| :--- | :--- |
-| **Español** | 🇪🇸 Nativo |
-| **Inglés** | 🇬🇧 B2 (Intermedio Alto) |
+| Idioma | Nivel | Dominio |
+| :--- | :---: | :--- |
+| 🇪🇸 **Español** | `Nativo` | ![Español Nativo](https://img.shields.io/badge/-Lengua_Materna-10B981?style=flat-square) |
+| 🇬🇧 **Inglés** | `B2` | ![Inglés B2](https://img.shields.io/badge/-Intermedio_Alto-3178C6?style=flat-square) |
 
 </div>
 
@@ -146,19 +158,23 @@ Aplicación pensada para optimizar la recepción y administración de alojamient
 
 <div align="center">
 
-Sientete libre de contactarme para colaboraciones, oportunidades laborales o dudas técnicas.
+### 🤝 ¿Hablamos?
+*Abierto a nuevas oportunidades laborales, proyectos colaborativos o consultas técnicas.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquin-bowen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaquin--bowen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquin-bowen)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contacto_Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Web-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-joaquinbowen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaquinbowen)
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joaquinbowen&style=flat-square&color=10B981&label=Vistas+del+Perfil)
 
 </div>
+
 
