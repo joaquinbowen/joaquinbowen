@@ -132,11 +132,19 @@ Application built to streamline lodging reception and management, supporting shi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinbowen&show_icons=true&theme=dark&hide_border=false&title_color=10B981&icon_color=10B981&count_private=true&include_all_commits=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaquinbowen&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaquinbowen&theme=github_dark" height="160"/>
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinbowen&layout=compact&theme=dark&hide_border=false&title_color=10B981&langs_count=8)
+<img width="68%" src="https://streak-stats.demolab.com?user=joaquinbowen&theme=dark&background=0d1117&ring=10B981&fire=059669&currStreakLabel=10B981&border=1f2937&sideLabels=e2e8f0&sideNums=10B981&stroke=0d1117&dates=6b7280"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaquinbowen&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaquinbowen&theme=github_dark&utcOffset=1" height="160"/>
 
 </div>
 
