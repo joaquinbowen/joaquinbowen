@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Hi there! I'm Joaquín Bowen
+# Hi, I'm Joaquín Bowen
 
 ### **Backend-Focused Fullstack Developer** 🇪🇸
 
@@ -22,24 +22,24 @@
 
 ---
 
-### 👤 About Me
+### About Me
 
 Software developer focused primarily on the **Backend Ecosystem and Software Architecture**, with hands-on experience building modern **Fullstack applications**. Passionate about relational database design, designing **RESTful APIs**, and optimizing code for cleanliness, modularity, and maintainability.
 
-- 🔭 **Current Focus:** Deepening advanced backend architectures with **NestJS** and **PostgreSQL**.
-- 🛠️ **Core Stack:** Node.js, NestJS, TypeScript, PostgreSQL, Prisma, and Next.js.
-- 🎯 **Goal:** Developing high-impact digital solutions with professional engineering standards.
-- 📍 **Location:** Spain 🇪🇸
+- **Current Focus:** Deepening advanced backend architectures with **NestJS** and **PostgreSQL**.
+- **Core Stack:** Node.js, NestJS, TypeScript, PostgreSQL, Prisma, and Next.js.
+- **Goal:** Developing high-impact digital solutions with professional engineering standards.
+- **Location:** Spain 🇪🇸
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <br/>
 
 <div align="center">
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -47,7 +47,7 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 ![REST API](https://img.shields.io/badge/REST_APIs-10B981?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-### 💻 Frontend & Mobile
+### Frontend & Mobile
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -55,7 +55,12 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### 🛠️ Tools & Ecosystem
+### Infrastructure & Cloud Services
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
@@ -66,69 +71,69 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 
 ---
 
-## 📐 Architectural Principles & Methodology
+## Architectural Principles & Methodology
 
 <br/>
 
-- 🏛️ **Software Architecture:** Hexagonal Architecture (Ports & Adapters) · Modular Monoliths · MVC Pattern · RESTful API Design
-- 🧼 **Code Principles:** Clean Code · SOLID Principles · DRY & KISS
-- 🔄 **Methodologies & Workflows:** Agile / Scrum · CI/CD Workflows · Git Flow
+- **Software Architecture:** Hexagonal Architecture (Ports & Adapters) · Modular Monoliths · MVC Pattern · RESTful API Design
+- **Code Principles:** Clean Code · SOLID Principles · DRY & KISS
+- **Methodologies & Workflows:** Agile / Scrum · CI/CD Workflows · Git Flow
 
 <br/>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <br/>
 
-### 🛒 1. E-Commerce Platform — *Digital & Poster Commerce Solution*
-> **E-Commerce platform for customizable physical and digital products.**
+### 1. E-Commerce Platform — *Digital & Poster Commerce Solution*
+> E-Commerce platform for customizable physical and digital products.
 
 Fullstack e-commerce web application featuring customizable digital catalog, payment gateway integration, user authentication, and admin inventory analytics.
 
-- ⚙️ **Key Features:** Shopping cart, online checkout, SEO optimization, and admin control panel.
-- 🧰 **Tech Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
-- 📌 **Status:** `✅ Completed`
+- **Key Features:** Shopping cart, online checkout, SEO optimization, and admin control panel.
+- **Tech Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Cloudinary` · `Vercel`
+- **Status:** `Completed`
 
 ---
 
-### 📰 2. Editorial & Social Platform — *CMS & News Social Network*
-> **Content management and social platform for journalistic research and reporting.**
+### 2. Editorial & Social Platform — *CMS & News Social Network*
+> Content management and social platform for journalistic research and reporting.
 
 News and social communication platform featuring user authentication for public reporting and dynamic content management via headless CMS.
 
-- ⚙️ **Key Features:** Dynamic publishing, post moderation, public feedback system, and asset optimization.
-- 🧰 **Tech Stack:** `Next.js` · `Sanity CMS` · `PostgreSQL` · `TypeScript`
-- 📌 **Status:** `✅ Completed`
+- **Key Features:** Dynamic publishing, post moderation, public feedback system, and asset optimization.
+- **Tech Stack:** `Next.js` · `Sanity CMS` · `PostgreSQL` · `TypeScript` · `Vercel`
+- **Status:** `Completed`
 
 ---
 
-### 🚌 3. RouteSync — *Logistics & Tracking Platform*
-> **Real-time tracking and management for school and corporate transport.**
+### 3. RouteSync — *Logistics & Tracking Platform*
+> Real-time tracking and management for school and corporate transport.
 
 Comprehensive system designed to coordinate vehicles, users, routes, and trips. Connects admin web dashboards with dedicated driver and guardian mobile apps.
 
-- ⚙️ **Key Features:** Admin dashboard, real-time map tracking, route assignment, and attendance management.
-- 🧰 **Tech Stack:** `NestJS` · `PostgreSQL` · `Prisma` · `React Native` · `Docker`
-- 📌 **Status:** `🛠️ In Development`
+- **Key Features:** Admin dashboard, real-time map tracking, route assignment, and attendance management.
+- **Tech Stack:** `NestJS` · `PostgreSQL` · `Prisma` · `React Native` · `Docker` · `Render`
+- **Status:** `In Development`
 
 ---
 
-### 🏨 4. Hotel Cash Register & PMS — *Hotel Management & Cash Control*
-> **Comprehensive system for shift tracking, cash register audits, and hotel operations.**
+### 4. Hotel Cash Register & PMS — *Hotel Management & Cash Control*
+> Comprehensive system for shift tracking, cash register audits, and hotel operations.
 
 Application built to streamline lodging reception and management, supporting shift-based cash reconciliations, expense tracking, and sales auditing.
 
-- ⚙️ **Key Features:** Multi-shift management, real-time auditing, and daily financial reporting.
-- 🧰 **Tech Stack:** `NestJS` · `Angular` · `PostgreSQL` · `Docker`
-- 📌 **Status:** `💡 In Planning`
+- **Key Features:** Multi-shift management, real-time auditing, and daily financial reporting.
+- **Tech Stack:** `NestJS` · `Angular` · `PostgreSQL` · `Docker`
+- **Status:** `In Planning`
 
 <br/>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -152,7 +157,7 @@ Application built to streamline lodging reception and management, supporting shi
 
 ---
 
-## 🌐 Languages
+## Languages
 
 <div align="center">
 
@@ -166,11 +171,10 @@ Application built to streamline lodging reception and management, supporting shi
 
 ---
 
-## 📬 Contact & Socials
+## Contact
 
 <div align="center">
 
-### 🤝 Let's Connect!
 *Open for new job opportunities, collaborative projects, or technical inquiries.*
 
 <br/>
