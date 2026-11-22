@@ -93,12 +93,16 @@ Full-cycle management system built for meat processing operations. Centralizes s
 
 - **Key Features:** Lot traceability, purchasing & reception control, deboning yield tracking, dispatch management, and role-based workflows.
 
+<div align="center">
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_Admin-0284C7?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native_Operators-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -110,6 +114,8 @@ Comprehensive system designed to coordinate vehicles, users, routes, and trips. 
 
 - **Key Features:** Admin dashboard, real-time map tracking via WebSockets, route assignment, and attendance management.
 
+<div align="center">
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0F766E?style=flat-square&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -117,6 +123,8 @@ Comprehensive system designed to coordinate vehicles, users, routes, and trips. 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+</div>
 
 ---
 
@@ -128,12 +136,16 @@ Fullstack e-commerce web application featuring customizable digital catalog, pay
 
 - **Key Features:** Shopping cart, online checkout, SEO optimization, and admin control panel.
 
+<div align="center">
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
@@ -145,11 +157,15 @@ News and social communication platform featuring user authentication for public 
 
 - **Key Features:** Dynamic publishing, post moderation, public feedback system, and asset optimization.
 
+<div align="center">
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
 
 <br/>
 

@@ -93,12 +93,16 @@ Plataforma diseñada para la gestión operativa de la industria cárnica. Centra
 
 - **Características clave:** Trazabilidad por lote, gestión de compras y recepción, control de desposte y mermas, despacho y flujos por rol.
 
+<div align="center">
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_Admin-0284C7?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native_Operadores-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -110,6 +114,8 @@ Plataforma integral diseñada para coordinar vehículos, usuarios, rutas y traye
 
 - **Características clave:** Panel de administración, mapa en tiempo real con WebSockets, asignación de rutas y gestión de asistencia.
 
+<div align="center">
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0F766E?style=flat-square&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -117,6 +123,8 @@ Plataforma integral diseñada para coordinar vehículos, usuarios, rutas y traye
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+</div>
 
 ---
 
@@ -128,12 +136,16 @@ Plataforma web enfocada en venta de catálogo digital y físicos (posters) con i
 
 - **Características clave:** Carrito de compras, pagos en línea, optimización SEO y panel de gestión.
 
+<div align="center">
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
@@ -145,11 +157,15 @@ Plataforma de comunicación y noticias con autenticación de usuarios para denun
 
 - **Características clave:** Publicación dinámica, moderación de posts, feedback ciudadano y optimización de assets.
 
+<div align="center">
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
 
 <br/>
 
