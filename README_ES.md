@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=4" width="100%" />
+
 <div align="right">
   <a href="./README.md">
     <img src="https://img.shields.io/badge/English_Version-EN-0369A1?style=for-the-badge" alt="English Version" />
@@ -10,25 +12,15 @@
 
 ### **Backend-Focused Fullstack Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=475569&center=true&vCenter=true&width=640&lines=Arquitectura+Backend+%26+Bases+de+Datos+Relacionales;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+WebSockets;Desarrollo+Fullstack+Web+%26+Mobile;Software+limpio%2C+modular+y+mantenible." alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/joaquin-bowen-8749b5440" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:joaquinbowen.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=0D9488&center=true&vCenter=true&width=640&lines=Arquitectura+Backend+%26+Bases+de+Datos+Relacionales;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+WebSockets;Desarrollo+Fullstack+Web+%26+Mobile;Software+limpio%2C+modular+y+mantenible." alt="Typing SVG" />
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
 
-## <img src="https://api.iconify.design/lucide/user.svg?color=%230F766E" width="22" height="22" /> Sobre mí
+## <img src="https://api.iconify.design/lucide/user.svg?color=%230D9488" width="22" height="22" /> Sobre mí
 
 Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura de Software**, con experiencia construyendo aplicaciones **Fullstack web y móviles modernas**. Apasionado por el diseño de bases de datos relacionales, creación de **APIs RESTful y sistemas en tiempo real con WebSockets**, y código limpio, modular y mantenible.
 
@@ -39,13 +31,13 @@ Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura 
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
 
-## <img src="https://api.iconify.design/lucide/layers.svg?color=%230F766E" width="22" height="22" /> Stack Tecnológico
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%230D9488" width="22" height="22" /> Stack Tecnológico
 
 <div align="center">
 
-### <img src="https://api.iconify.design/lucide/server.svg?color=%2364748B" width="17" height="17" /> Backend & Tiempo Real
+### <img src="https://api.iconify.design/lucide/server.svg?color=%230284C7" width="17" height="17" /> Backend & Tiempo Real
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -54,7 +46,7 @@ Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-### <img src="https://api.iconify.design/lucide/layout-grid.svg?color=%2364748B" width="17" height="17" /> Frontend & Mobile
+### <img src="https://api.iconify.design/lucide/layout-grid.svg?color=%230284C7" width="17" height="17" /> Frontend & Mobile
 ![React](https://img.shields.io/badge/React-0284C7?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -63,7 +55,7 @@ Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### <img src="https://api.iconify.design/lucide/cloud.svg?color=%2364748B" width="17" height="17" /> Infraestructura & Servicios Cloud
+### <img src="https://api.iconify.design/lucide/cloud.svg?color=%230284C7" width="17" height="17" /> Infraestructura & Servicios Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -77,9 +69,9 @@ Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura 
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
 
-## <img src="https://api.iconify.design/lucide/blocks.svg?color=%230F766E" width="22" height="22" /> Principios de Arquitectura & Metodología
+## <img src="https://api.iconify.design/lucide/blocks.svg?color=%230D9488" width="22" height="22" /> Principios de Arquitectura & Metodología
 
 - **Arquitectura de Software:** Hexagonal Architecture (Ports & Adapters) · Monolitos Modulares · Patrón MVC · APIs RESTful & WebSockets
 - **Principios de Código:** Clean Code · Principios SOLID · DRY & KISS
@@ -87,13 +79,11 @@ Desarrollador enfocado principalmente en el **ecosistema Backend y Arquitectura 
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
 
-## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%230F766E" width="22" height="22" /> Proyectos Destacados
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%230D9488" width="22" height="22" /> Proyectos Destacados
 
 ### 1. Sistema de Gestión de Cárnicos — *Trazabilidad y Operaciones de Planta*
-![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-0284C7?style=flat-square)
-
 > Control integral del ciclo cárnico desde la compra y recepción hasta el desposte y despacho.
 
 Plataforma diseñada para la gestión operativa de la industria cárnica. Centraliza compras a proveedores, recepción de mercancía, control de lotes y rendimientos en desposte, y despacho final, integrando un panel web administrativo con una app móvil para operadores de planta.
@@ -104,8 +94,6 @@ Plataforma diseñada para la gestión operativa de la industria cárnica. Centra
 ---
 
 ### 2. RouteSync — *Sistema de Logística & Rastreo*
-![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-0284C7?style=flat-square)
-
 > Rastreo y gestión en tiempo real para transporte escolar y empresarial.
 
 Plataforma integral diseñada para coordinar vehículos, usuarios, rutas y trayectos. Conecta paneles administrativos web con aplicaciones móviles dedicadas a choferes y tutores.
@@ -116,8 +104,6 @@ Plataforma integral diseñada para coordinar vehículos, usuarios, rutas y traye
 ---
 
 ### 3. E-Commerce Platform — *Plataforma de Comercio Electrónico*
-![Estado](https://img.shields.io/badge/Estado-Completado-0F766E?style=flat-square)
-
 > Solución e-commerce para productos personalizables y digitales.
 
 Plataforma web enfocada en venta de catálogo digital y físicos (posters) con integración de pasarela de pagos, gestión de usuarios, e inventario con analíticas de ventas.
@@ -128,8 +114,6 @@ Plataforma web enfocada en venta de catálogo digital y físicos (posters) con i
 ---
 
 ### 4. Editorial & Social Platform — *CMS & Red Editorial*
-![Estado](https://img.shields.io/badge/Estado-Completado-0F766E?style=flat-square)
-
 > Gestión de contenidos periodísticos e investigaciones con interacción social.
 
 Plataforma de comunicación y noticias con autenticación de usuarios para denuncias ciudadanas y gestión de contenido dinámico mediante un headless CMS.
@@ -139,9 +123,9 @@ Plataforma de comunicación y noticias con autenticación de usuarios para denun
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
 
-## <img src="https://api.iconify.design/lucide/languages.svg?color=%230F766E" width="22" height="22" /> Idiomas
+## <img src="https://api.iconify.design/lucide/languages.svg?color=%230D9488" width="22" height="22" /> Idiomas
 
 <div align="center">
 
@@ -153,7 +137,9 @@ Plataforma de comunicación y noticias con autenticación de usuarios para denun
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
+
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%230D9488" width="22" height="22" /> Contacto
 
 <div align="center">
 
@@ -161,6 +147,18 @@ Plataforma de comunicación y noticias con autenticación de usuarios para denun
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=joaquinbowen&color=0F766E&style=flat-square&label=Vistas+del+Perfil)
+<a href="https://www.linkedin.com/in/joaquin-bowen-8749b5440" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:joaquinbowen.dev@gmail.com">
+  <img src="https://img.shields.io/badge/joaquinbowen.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=joaquinbowen&color=0D9488&style=flat-square&label=Vistas+del+Perfil)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=4" width="100%" />
