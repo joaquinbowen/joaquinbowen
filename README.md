@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,55:134E4A,100:0C4A6E&height=175&section=header&text=Joaqu%C3%ADn%20Bowen&fontSize=42&fontColor=F8FAFC&fontAlignY=42&desc=Backend-Focused%20Fullstack%20Developer%20%C2%B7%20Spain&descSize=16&descColor=CBD5E1&descAlignY=66" width="100%" alt="Joaquín Bowen Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=165&section=header&text=Joaqu%C3%ADn%20Bowen&fontSize=42&fontColor=F8FAFC&fontAlignY=42&desc=Backend-Focused%20Fullstack%20Developer%20%C2%B7%20Spain&descSize=16&descColor=94A3B8&descAlignY=66" width="100%" alt="Joaquín Bowen Header" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=2" width="100%" />
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%230D9488" width="22" height="22" /> About Me
 
@@ -33,7 +33,7 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=2" width="100%" />
 
 ## <img src="https://api.iconify.design/lucide/layers.svg?color=%230D9488" width="22" height="22" /> Tech Stack
 
@@ -71,7 +71,7 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=2" width="100%" />
 
 ## <img src="https://api.iconify.design/lucide/blocks.svg?color=%230D9488" width="22" height="22" /> Architectural Principles & Methodology
 
@@ -81,7 +81,7 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=2" width="100%" />
 
 ## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%230D9488" width="22" height="22" /> Featured Projects
 
@@ -153,7 +153,7 @@ News and social communication platform featuring user authentication for public 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=2" width="100%" />
 
 ## <img src="https://api.iconify.design/lucide/languages.svg?color=%230D9488" width="22" height="22" /> Languages
 
@@ -167,7 +167,7 @@ News and social communication platform featuring user authentication for public 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:0284C7&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=2" width="100%" />
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%230D9488" width="22" height="22" /> Contact
 
@@ -191,4 +191,4 @@ News and social communication platform featuring user authentication for public 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0C4A6E,45:134E4A,100:0F172A&height=70&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=45&section=footer" width="100%" />
