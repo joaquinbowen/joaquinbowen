@@ -1,6 +1,6 @@
 <div align="right">
   <a href="./README_ES.md">
-    <img src="https://img.shields.io/badge/Versi%C3%B3n_en_Espa%C3%B1ol-%F0%9F%87%AA%F0%9F%87%B8-27272A?style=for-the-badge" alt="Versión en Español" />
+    <img src="https://img.shields.io/badge/Versi%C3%B3n_en_Espa%C3%B1ol-%F0%9F%87%AA%F0%9F%87%B8-334155?style=for-the-badge" alt="Versión en Español" />
   </a>
 </div>
 
@@ -34,32 +34,32 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 <div align="center">
 
 ### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-27272A?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-27272A?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-27272A?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-27272A?style=flat-square&logo=prisma&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-27272A?style=flat-square&logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-27272A?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-27272A?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-27272A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-27272A?style=flat-square&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-27272A?style=flat-square&logo=postgresql&logoColor=699ECA)
+![Prisma](https://img.shields.io/badge/Prisma-27272A?style=flat-square&logo=prisma&logoColor=5A67D8)
+![WebSockets](https://img.shields.io/badge/WebSockets-27272A?style=flat-square&logo=socketdotio&logoColor=CBD5E1)
+![REST API](https://img.shields.io/badge/REST_APIs-27272A?style=flat-square&logo=fastapi&logoColor=38B2AC)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-27272A?style=flat-square&logo=springboot&logoColor=6DB33F)
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-27272A?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-27272A?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-27272A?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-27272A?style=flat-square&logo=javascript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-27272A?style=flat-square&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-27272A?style=flat-square&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-27272A?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-27272A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-27272A?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-27272A?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-27272A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-27272A?style=flat-square&logo=angular&logoColor=DD0031)
+![React Native](https://img.shields.io/badge/React_Native-27272A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-27272A?style=flat-square&logo=flutter&logoColor=54C5F8)
 
 ### Infrastructure & Cloud Services
-![Vercel](https://img.shields.io/badge/Vercel-27272A?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-27272A?style=flat-square&logo=render&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-27272A?style=flat-square&logo=neon&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-27272A?style=flat-square&logo=supabase&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-27272A?style=flat-square&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-27272A?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-27272A?style=flat-square&logo=docker&logoColor=white)
-![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-27272A?style=flat-square&logo=sanity&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-27272A?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Render](https://img.shields.io/badge/Render-27272A?style=flat-square&logo=render&logoColor=46E3B7)
+![Neon](https://img.shields.io/badge/Neon-27272A?style=flat-square&logo=neon&logoColor=34D399)
+![Supabase](https://img.shields.io/badge/Supabase-27272A?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-27272A?style=flat-square&logo=cloudinary&logoColor=6382F8)
+![Git](https://img.shields.io/badge/Git-27272A?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-27272A?style=flat-square&logo=docker&logoColor=2496ED)
+![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-27272A?style=flat-square&logo=sanity&logoColor=F03E2F)
 
 </div>
 
@@ -133,9 +133,9 @@ News and social communication platform featuring user authentication for public 
 
 <div align="center">
 
-![Spanish](https://img.shields.io/badge/Spanish-Native_%F0%9F%87%AA%F0%9F%87%B8-3F3F46?style=for-the-badge&labelColor=18181B)
+![Spanish](https://img.shields.io/badge/Spanish-Native_%F0%9F%87%AA%F0%9F%87%B8-2D6A5E?style=for-the-badge&labelColor=1E293B)
 &nbsp;&nbsp;&nbsp;&nbsp;
-![English](https://img.shields.io/badge/English-B2_Upper_Intermediate_%F0%9F%87%AC%F0%9F%87%B8-3F3F46?style=for-the-badge&labelColor=18181B)
+![English](https://img.shields.io/badge/English-B2_Upper_Intermediate_%F0%9F%87%AC%F0%9F%87%B8-2B5B84?style=for-the-badge&labelColor=1E293B)
 
 </div>
 
@@ -152,23 +152,23 @@ News and social communication platform featuring user authentication for public 
 <br/>
 
 <a href="https://linkedin.com/in/joaquin-bowen" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-27272A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-27272A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:tu-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-27272A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-27272A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://tu-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-27272A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-27272A?style=for-the-badge&logo=vercel&logoColor=38B2AC"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/joaquinbowen" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-27272A?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-27272A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=joaquinbowen&color=3F3F46&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=joaquinbowen&color=334155&style=flat-square&label=Profile+Views)
 
 </div>
