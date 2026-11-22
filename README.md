@@ -1,6 +1,6 @@
 <div align="right">
   <a href="./README_ES.md">
-    <img src="https://img.shields.io/badge/Versi%C3%B3n_en_Espa%C3%B1ol-%F0%9F%87%AA%F0%9F%87%B8-0F766E?style=for-the-badge" alt="Versión en Español" />
+    <img src="https://img.shields.io/badge/Versi%C3%B3n_en_Espa%C3%B1ol-ES-0F766E?style=for-the-badge" alt="Versión en Español" />
   </a>
 </div>
 
@@ -8,26 +8,18 @@
 
 # Hi, I'm Joaquín Bowen
 
-### **Backend-Focused Fullstack Developer** 🇪🇸
+### **Backend-Focused Fullstack Developer**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=475569&center=true&vCenter=true&width=640&lines=Backend+Architecture+%26+Relational+Databases;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+WebSockets;Fullstack+Web+%26+Mobile+Systems;Clean%2C+modular+%26+maintainable+software." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://linkedin.com/in/joaquin-bowen" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/joaquin-bowen-8749b5440" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:tu-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://tu-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/joaquinbowen" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:joaquinbowen.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
@@ -36,24 +28,24 @@
 
 ---
 
-## About Me
+## <img src="https://api.iconify.design/lucide/user.svg?color=%230F766E" width="22" height="22" /> About Me
 
 Software developer focused primarily on the **Backend Ecosystem and Software Architecture**, with hands-on experience building modern **Fullstack web and mobile applications**. Passionate about relational database design, **RESTful APIs & real-time WebSocket systems**, and writing clean, modular, maintainable code.
 
 - **Current Focus:** Deepening advanced backend architectures with **NestJS**, **PostgreSQL**, and real-time systems.
 - **Core Stack:** Node.js, NestJS, TypeScript, PostgreSQL, Prisma, React, Next.js, and React Native.
 - **Goal:** Developing high-impact digital solutions with professional engineering standards.
-- **Location:** Spain 🇪🇸
+- **Location:** Spain
 
 <br/>
 
 ---
 
-## Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%230F766E" width="22" height="22" /> Tech Stack
 
 <div align="center">
 
-### Backend & Real-Time
+### <img src="https://api.iconify.design/lucide/server.svg?color=%2364748B" width="17" height="17" /> Backend & Real-Time
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -62,7 +54,7 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-### Frontend & Mobile
+### <img src="https://api.iconify.design/lucide/layout-grid.svg?color=%2364748B" width="17" height="17" /> Frontend & Mobile
 ![React](https://img.shields.io/badge/React-0284C7?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -71,7 +63,7 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### Infrastructure & Cloud Services
+### <img src="https://api.iconify.design/lucide/cloud.svg?color=%2364748B" width="17" height="17" /> Infrastructure & Cloud Services
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -87,7 +79,7 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 
 ---
 
-## Architectural Principles & Methodology
+## <img src="https://api.iconify.design/lucide/blocks.svg?color=%230F766E" width="22" height="22" /> Architectural Principles & Methodology
 
 - **Software Architecture:** Hexagonal Architecture (Ports & Adapters) · Modular Monoliths · MVC Pattern · RESTful APIs & WebSockets
 - **Code Principles:** Clean Code · SOLID Principles · DRY & KISS
@@ -97,7 +89,7 @@ Software developer focused primarily on the **Backend Ecosystem and Software Arc
 
 ---
 
-## Featured Projects
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%230F766E" width="22" height="22" /> Featured Projects
 
 ### 1. Meat Supply Chain & Processing ERP — *End-to-End Operations Management*
 ![Status](https://img.shields.io/badge/Status-In_Development-0284C7?style=flat-square)
@@ -149,13 +141,13 @@ News and social communication platform featuring user authentication for public 
 
 ---
 
-## Languages
+## <img src="https://api.iconify.design/lucide/languages.svg?color=%230F766E" width="22" height="22" /> Languages
 
 <div align="center">
 
-![Spanish](https://img.shields.io/badge/Spanish-Native_%F0%9F%87%AA%F0%9F%87%B8-0F766E?style=for-the-badge&labelColor=134E4A)
+![Spanish](https://img.shields.io/badge/Spanish-Native-0F766E?style=for-the-badge&labelColor=134E4A)
 &nbsp;&nbsp;&nbsp;&nbsp;
-![English](https://img.shields.io/badge/English-B2_Upper_Intermediate_%F0%9F%87%AC%F0%9F%87%B8-0369A1?style=for-the-badge&labelColor=0C4A6E)
+![English](https://img.shields.io/badge/English-B2_Upper_Intermediate-0369A1?style=for-the-badge&labelColor=0C4A6E)
 
 </div>
 
